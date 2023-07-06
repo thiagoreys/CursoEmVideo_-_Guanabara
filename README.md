@@ -1,2 +1,2 @@
 # Curso_Python_Guanabara
-Curso de Python do básico ao avançado fornecido pelo Gustavo Guanabara, em seu canal do youtube CursoemVideo.
+Operadores Aritimeticos; Bibliotecas; Manipulação de Textos; Condições (if e else); Cores no Terminal; Condições Aninhadas; For e While; Tuplas, Listas e Dicionários; Funções; Módulos e Pacotes; Try e Except.
